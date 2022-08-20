@@ -1,2 +1,2 @@
 # TeddyCake
- [https://nikiprogramm.github.io/TeddyCakeWebGL/]
+ (https://nikiprogramm.github.io/TeddyCakeWebGL/)
